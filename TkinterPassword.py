@@ -31,7 +31,7 @@ def DisplayStrength(canvas):
         label1.config(text = "True")
 
 canvas = tk.Tk()
-canvas.geometry("200x300")
+canvas.geometry("600x300")
 canvas.title("Password App")
 canvas.configure(bg = 'pink')
 
