@@ -14,5 +14,5 @@ Installation
 
 2.	Run the script:
 
-   		python password_checker.py
+   		python Tkinterpassword.py
 
