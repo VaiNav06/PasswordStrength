@@ -9,7 +9,7 @@ Installation
 1.	Clone the repository:
 
 	    git clone https://github.com/VaiNav06/PasswordStrength
-	    cd password-checker
+	    cd PasswordStrength
 
 
 2.	Run the script:
