@@ -8,7 +8,7 @@ A Tkinter-based application that evaluates the strength of a password using regu
 Installation
 1.	Clone the repository:
 
-	    git clone https://github.com/your-username/password-checker.git
+	    git clone https://github.com/VaiNav06/PasswordStrength
 	    cd password-checker
 
 
