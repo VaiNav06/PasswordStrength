@@ -14,5 +14,5 @@ Installation
 
 2.	Run the script:
 
-   		python Tkinterpassword.py
+   		python TkinterPassword.py
 
